@@ -30,7 +30,7 @@
       "startDate": "2020-08-31",
       "endDate": "",
       "summary": "Nate teaches courses in UMA's Computer Information Systems program, including multiple courses in the area of Web development and Microsoft 365. Nate is also involved in launching UMA's foray into computer game and extended reality development courses.",
-      "highlights": ["Web Development"]
+      "highlights": []
     },
     {
       "name": "University of Maine at Augusta",
@@ -39,7 +39,7 @@
       "startDate": "2016-03-28",
       "endDate": "",
       "summary": "Nate supports UMA’s institutional research and assessment needs by creating and maintaining computer programs that fetch and prepare data as well as assisting with the analysis, reporting, and visualization of such data. He also maintains UMA’s online course evaluation system. When not elbow-deep in data, he manages the University's makerspace - the UMA Collaboratory - engaging students to be design thinkers, constructionists, and collaborators in order to create the best inventions for the best of intentions. Nate is an alumnus of UMA’s Computer Information Systems program.",
-      "highlights": ["3-D Printing"]
+      "highlights": []
     },
     {
       "name": "Home Building Estimates",
@@ -48,7 +48,7 @@
       "startDate": "2012-10-01",
       "endDate": "2016-03-27",
       "summary": "Principle web developer and IT administrator for this Web start-up that provides services to consumers and building contractors. Skills used include Web design and programming, social media marketing, and video production.",
-      "highlights": ["PHP", "JavaScript"]
+      "highlights": []
     },
     {
       "name": "Netwalker Internet Services",
@@ -57,7 +57,7 @@
       "startDate": "2000-02-01",
       "endDate": "",
       "summary": "End-to-end Web site development and support in a LAMP environment. Specific skills utilized: HTML5, CSS, PHP, JavaScript, AJAX, XML, MySQL, Graphic Design, Search Engine Optimization, Speed Optimization, Content Management, Inbound Marketing, and Social Media Marketing.",
-      "highlights": ["PHP", "JavaScript"]
+      "highlights": []
     },
     {
       "name": "State of Maine Office of Information Technology",
@@ -84,7 +84,7 @@
       "startDate": "2009-09-01",
       "endDate": "2010-12-31",
       "summary": "Assisted Computer Information Systems instructors in Introduction to Computer Science, Java, and PHP courses.",
-      "highlights": ["PHP", "Java"]
+      "highlights": []
     },
     {
       "name": "Alvan Bolster Ricker Memorial Library and Community House",
@@ -93,7 +93,7 @@
       "startDate": "2004-07-01",
       "endDate": "2005-07-31",
       "summary": "Day-to-day management of public library operations, including: human resources management; directing and overseeing circulation activities; reporting to federal, state, and local governments and five-member board of trustees; working with board of trustees in preparing annual budget; recommending and enforcing policies; managing public relations and marketing library services to the community; overseeing material selection; ordering supplies; maintaining financial records; communicating with library patrons, donors, and the community; designing and maintaining Web site; administering and maintaining library automation system; maintaining computer network; organizing special events, including children's summer reading program; promoting a friendly and welcoming environment.",
-      "highlights": ["Management"]
+      "highlights": []
     },
     {
       "name": "Alvan Bolster Ricker Memorial Library and Community House",
@@ -102,7 +102,7 @@
       "startDate": "2002-06-01",
       "endDate": "2004-06-30",
       "summary": "Assisting library director in day-to-day management of public library. Duties included: maintaining computer network; preparing monthly and annual reports; ensuring that library remained within budget on a monthly basis; administering and maintaining library automation system; creating, altering, importing, and exporting MARC records; designing and maintaining Web site, including online catalog; moderating public forum/debate.",
-      "highlights": ["Management"]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -114,7 +114,7 @@
       "startDate": "2007-04-01",
       "endDate": "2010-04-01",
       "summary": "As co-treasurer, I monitored the library's investments and other funds and reported to the entire board on monthly basis. As a board member, I was involved in creating and maintaining policy and advocating for the library.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": []
     }
   ],
   "education": [
@@ -152,143 +152,79 @@
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "The Data Scientist’s Toolbox",
+      "issuer": "Coursera Verified Certificates",
+      "startDate": "2015-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/verify/7SDW7CRNX7"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "R Programming",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2015-11-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5LKL434MMQ"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Getting and Cleaning Data",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2016-01-31",
+      "url": "https://www.coursera.org/account/accomplishments/verify/LSYDX3RVXG"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Exploratory Data Analysis",
+      "issuer": "Coursera Course Certificates",
+      "startDate": "2016-08-31",
+      "url": "https://www.coursera.org/account/accomplishments/verify/RBPEQNUPT7L4"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Reproducible Research",
+      "issuer": "Coursera",
+      "startDate": "2016-11-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/Y4VABB4URW6U"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "VR and 360 Video Production",
+      "issuer": "Coursera",
+      "startDate": "2018-06-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/D2DN9SF7Z6UC"
+    },
+    {
+      "name": "Blue Administrator Certification",
+      "issuer": "Explorance",
+      "startDate": "2022-01-31",
+      "url": "https://www.credential.net/4f27cc5e-4c05-4f48-9f9d-7e497feb2930"
+    },
+    {
+      "name": "BAC Advanced",
+      "issuer": "Explorance",
+      "startDate": "2021-06-30",
+      "url": "https://www.credential.net/9b776704-d8db-48aa-855e-a455d6bbc25f"
+    },
+    {
+      "name": "VR and 360 Video Production",
+      "issuer": "Coursera",
+      "startDate": "2018-06-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/D2DN9SF7Z6UC"
+    },
+    {
+      "name": "Fundamentals of Accelerated Data Science with RAPIDS",
+      "issuer": "NVIDIA",
+      "startDate": "2022-06-30",
+      "url": "https://courses.nvidia.com/certificates/15c0c966a645411a8e876442095e8011/"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "publications": [],
+  "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }
